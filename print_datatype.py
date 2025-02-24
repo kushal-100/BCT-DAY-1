@@ -1,0 +1,12 @@
+a=1
+b="messi"
+d=2.3
+tuple=('m','e','s','s','i')
+list=['m','e','s','s','i']
+dict={'m':1,'e':2,'s':3,'s':4,'i':5}
+print(type(a))
+print(type(b))
+print(type(d))
+print(type(tuple))    
+print(type(list)) 
+print(type(dict))
